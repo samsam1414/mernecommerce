@@ -1,0 +1,22 @@
+{
+  "name": "mernecommerce",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsam1414/mernecommerce.git"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsam1414/mernecommerce/issues"
+  },
+  "homepage": "https://github.com/samsam1414/mernecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
